@@ -24,5 +24,5 @@ sudo apt update && sudo apt install inotify-tools -y
 1. Realize o download do script ***waydroid-apps-hider***.
 2. Garanta privilégios de execução ao binário:
 ```bash
-chmod +x waydroid-apps-hider
+chmod +x waydroid-apps-hider.sh
 ```
